@@ -5,4 +5,4 @@ A basic collision detection is implemented with the ground plane using the impul
 of the particle. I also incorporated an Anttweakbar GUI with adjustable mean and variance variables. 
 
 # Video Demo
-[![Among Us Project](http://i3.ytimg.com/vi/_ul2FSD1bWw/maxresdefault.jpg)](https://youtu.be/_ul2FSD1bWw)
+[![Particle Simulation](http://i3.ytimg.com/vi/_ul2FSD1bWw/maxresdefault.jpg)](https://youtu.be/_ul2FSD1bWw)
